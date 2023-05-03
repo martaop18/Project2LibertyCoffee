@@ -1,10 +1,43 @@
 * {
     box-sizing: border-box;
+    margin: 0.5em;
+    padding: 0.5em;
 }
 
 body {  
-    display: flex;
     background-color: #211e20;
-    margin: 0;
-    padding: 0;
+    /* margin: 0;
+    padding: 0; */
 }
+.maincontainer {}
+
+    .header{
+        background-color: rgb(173, 106, 236);
+        }
+        .menu{
+            background-color: rgb(222, 148, 210);
+            display: flex;
+            }
+            .logo{
+                background-color: cadetblue;
+            }
+            .nav{
+                background-color: cadetblue;
+            }
+            .social{
+                background-color: blanchedalmond;
+            }
+        .maintext{
+            background-color: rgb(112, 143, 132);
+        }
+        h1 {background-color: cornflowerblue;}
+            
+
+    .section{
+        background-color: rgb(173, 106, 236);
+
+    }
+    .footer{
+        background-color: rgb(173, 106, 236);
+
+    }
