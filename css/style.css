@@ -8,4 +8,11 @@ body{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida
 .carousel-slide{ max-width: fit-content;
 }
 
+/* media queries panatalla sm */
+@media (max-width: 768px)
+
+
+
+/* media queries panatalla md */
+@media  (max-width: 992px)
 
