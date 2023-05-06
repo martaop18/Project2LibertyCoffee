@@ -5,10 +5,12 @@ body{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida
 
  .navbar-toggler-icon {background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 255.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }   
+/* 
+.img-fluid. max-width: 100%; */
 
 
-.carousel-slide{ max-width: fit-content;
-}
+/* .carousel-slide{ max-width: fit-content;
+} */
 
 /* media queries panatalla sm
 @media (max-width: 768px)
