@@ -4,8 +4,7 @@ body¨{
     background-color: rgb(197, 31, 31);
 
 }
-.card-img-top {
-    width: 100%;
-    height: 15vw;
-    object-fit: cover;
-}
+.card-body-img {
+   
+    /* object-fit:fill;
+} */
