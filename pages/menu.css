@@ -1,10 +1,7 @@
-body¨{
+body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     overflow-x: hidden;
-    background-color: rgb(197, 31, 31);
+    background-color: white;
 
 }
-.card-body-img {
-   
-    /* object-fit:fill;
-} */
+.card-body-img {width: 100px;}
