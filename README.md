@@ -4,6 +4,7 @@ Este es el segundo proyecto de mi entrenamiento como full stack developer. En es
 
 ### Proceso:
 El proyecto lo he realizado utilizando Bootstrap, HTML y css. Me he inspirado en una pastelería de donuts artesanales. He realizado las 3 vistas requeridas, home, menú y contacto, todas vinculadas a través de HTML.
+En Home a través de DOUGHNUTS en el encabezado se accede al menú y desde contact en el pie de página se accede al formulario.
 
 #### Página Home con encabezado
 ![Alt text](img/home%201.jpg)
@@ -24,6 +25,9 @@ El proyecto lo he realizado utilizando Bootstrap, HTML y css. Me he inspirado en
 
 #### Página Contacto Mobile first
 ![Alt text](img/responsive%20form.jpg)
+
+#### Link al repositorio
+https://github.com/martaop18/project2LibertyCoffee.git
 
 
 
