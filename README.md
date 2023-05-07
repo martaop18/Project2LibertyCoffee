@@ -12,11 +12,12 @@ El proyecto lo he realizado utilizando Bootstrap, HTML y css. Me he inspirado en
 #### Página Home Mobile first
 ![Alt text](img/responsive%20home.jpg)
 
+#### Página Menú
+![Alt text](img/menu1.jpg)
+![Alt text](img/menu2.jpg)
 
-#### Divisiones hijo: 
-![Alt text](img/divs.jpg)
-#### Resultado final:
-![alt text](img/resultado%20final.jpg)
+#### Página Menú Mobile first
+![Alt text](img/responsive%20menu.jpg)
 
 
 
