@@ -8,6 +8,17 @@ body{
     overflow-x: hidden;
 }
 
+.fondo{
+    background-image: url(../img/main.jpg);
+    height: 70vh;
+    width: 100vw;
+    background-position:inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@media (768 px) {.fondo {min-height: 30vh;}}
+
 /* .fixed-header {position: fixed;
 top: 0;
 left: 0;
